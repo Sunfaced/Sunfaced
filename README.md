@@ -23,8 +23,7 @@
 </div>
 
 ## Моя статистика : :fire:  ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sunfaced&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ## Контакты для связи
 <ul>
   <li>
